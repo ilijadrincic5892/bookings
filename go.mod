@@ -1,4 +1,4 @@
-module github.com/ilijadrincic5892/booking
+module github.com/ilijadrincic5892/bookings
 
 go 1.23.2
 
